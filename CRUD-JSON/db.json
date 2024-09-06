@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "sahil",
+      "email": "sa@gmail.com",
+      "phone": "9106027262",
+      "country": "India",
+      "id": "9631"
+    },
+    {
+      "name": "Unity Lane",
+      "email": "vel.faucibus.id@icloud.ca",
+      "phone": "9909089482",
+      "country": "USA",
+      "id": "1"
+    },
+    {
+      "name": "Sahil Dholariya",
+      "email": "sahil@gmail.com",
+      "phone": "7201929800",
+      "country": "India",
+      "id": "b9eb"
+    }
+  ]
+}
